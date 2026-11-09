@@ -319,8 +319,11 @@ Elle présentera :
 - Les tests de fonctionnement.
 
 Lien de la vidéo : à ajouter.
+## 15. Utilisation de l'intelligence artificielle
 
-## 15. Conclusion
+Des outils d'intelligence artificielle ont été utilisés comme outils de soutien pendant le développement du projet, notamment pour l'assistance à la programmation, la résolution de problèmes techniques et l'amélioration de la documentation.
+
+## 16. Conclusion
 
 RévisIA démontre l'intégration d'une application mobile multiplateforme avec une API REST et un modèle d'intelligence artificielle local.
 
