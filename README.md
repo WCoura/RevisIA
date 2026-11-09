@@ -9,11 +9,38 @@ L'utilisateur saisit un texte de cours et choisit un mode de révision. L'applic
 
 L'objectif est de faciliter la compréhension, la mémorisation et la préparation aux évaluations.
 
-## 2. Membres de l'équipe
+## 2. Membres de l'équipe et répartition des tâches
 
-- Wallace Coura
-- Adryen Moser
-- Abdelwahhab Bouziane
+Le projet RévisIA a été réalisé en équipe de trois étudiants. Les responsabilités ont été réparties entre le développement de l'application mobile, l'intégration de l'intelligence artificielle et la validation du fonctionnement global.
+
+### Wallace Coura — Développement de l'application mobile
+
+- Création et configuration du projet NativeScript Vue.
+- Développement de l'interface utilisateur dans `Home.vue`.
+- Implémentation des trois modes de révision : Résumé, Questions et Résumé + Questions.
+- Gestion des champs de saisie, des boutons et de l'affichage des résultats.
+- Mise en place des messages de validation et de chargement.
+
+### Adryen Moser — Développement du serveur et intégration de l'IA
+
+- Création du serveur Node.js avec Express.
+- Développement de l'API REST et de la route `/revision`.
+- Configuration de l'environnement Ollama et du modèle Llama 3.2.
+- Élaboration des consignes pédagogiques envoyées à l'intelligence artificielle.
+- Implémentation des mécanismes de validation et de filtrage des réponses générées.
+
+### Abdelwahhab Bouziane — Intégration, tests et documentation
+
+- Configuration et utilisation de l'émulateur Android.
+- Vérification de la communication entre l'application mobile et le serveur.
+- Réalisation des tests fonctionnels des trois modes de révision.
+- Vérification des résultats générés et identification des problèmes.
+- Préparation de la documentation technique dans le `README.md`.
+- Participation à la préparation de la démonstration vidéo et du dépôt GitHub.
+
+### Collaboration de l'équipe
+
+Les trois membres ont participé à la conception du projet, aux discussions techniques, à la résolution des problèmes et à la validation finale de l'application.
 
 ## 3. Technologies utilisées
 
