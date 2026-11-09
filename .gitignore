@@ -1,0 +1,28 @@
+# Dependências Node.js
+node_modules/
+**/node_modules/
+
+# Arquivos gerados pelo NativeScript
+**/platforms/
+**/build/
+**/dist/
+**/coverage/
+
+# Logs e arquivos temporários
+*.log
+npm-debug.log*
+*.tmp
+*.bak
+
+# Configurações locais e informações sensíveis
+.env
+.env.*
+!.env.example
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
