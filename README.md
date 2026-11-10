@@ -1,3 +1,8 @@
+Dépôt GitHub du projet
+
+Le code source complet de l'application RévisIA, les instructions d'installation et la vidéo de démonstration sont disponibles sur GitHub.
+
+Lien du dépôt : https://github.com/WCoura/RevisIA
 
 # RévisIA — Assistant de révision intelligent
 
