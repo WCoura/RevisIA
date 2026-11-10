@@ -312,7 +312,7 @@ Les tests ont permis d'améliorer les consignes du modèle et le traitement des 
 - Améliorer la vérification des réponses générées.
 - Permettre la configuration de l'adresse du serveur.
 
-### Démonstration vidéo
+### 14. Démonstration vidéo
 
 La vidéo présente les trois modes de révision de RévisIA ainsi qu'un test de gestion des erreurs de connexion.
 
