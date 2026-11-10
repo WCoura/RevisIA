@@ -307,18 +307,12 @@ Les tests ont permis d'améliorer les consignes du modèle et le traitement des 
 - Améliorer la vérification des réponses générées.
 - Permettre la configuration de l'adresse du serveur.
 
-## 14. Démonstration vidéo
+### Démonstration vidéo
 
-Une démonstration du projet sera enregistrée avec OBS Studio.
+La vidéo présente les trois modes de révision de RévisIA ainsi qu'un test de gestion des erreurs de connexion.
 
-Elle présentera :
-- L'interface de l'application.
-- Les trois modes de révision.
-- La communication avec le serveur Node.js.
-- L'utilisation locale de Llama 3.2.
-- Les tests de fonctionnement.
+[Voir la démonstration vidéo (version 1.0.0)](https://github.com/WCoura/RevisIA/releases/download/v1.0.0/2026-11-09.19-50-36.mp4)
 
-Lien de la vidéo : à ajouter.
 ## 15. Utilisation de l'intelligence artificielle
 
 Des outils d'intelligence artificielle ont été utilisés comme outils de soutien pendant le développement du projet, notamment pour l'assistance à la programmation, la résolution de problèmes techniques et l'amélioration de la documentation.
