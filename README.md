@@ -1,8 +1,13 @@
-Dépôt GitHub du projet
+### Dépôt GitHub du projet
 
 Le code source complet de l'application RévisIA, les instructions d'installation et la vidéo de démonstration sont disponibles sur GitHub.
 
 Lien du dépôt : https://github.com/WCoura/RevisIA
+### Démonstration vidéo
+
+La vidéo présente les trois modes de révision de RévisIA ainsi qu'un test de gestion des erreurs de connexion.
+
+[Voir la démonstration vidéo (version 1.0.0)](https://github.com/WCoura/RevisIA/releases/download/v1.0.0/2026-11-09.19-50-36.mp4)
 
 # RévisIA — Assistant de révision intelligent
 
@@ -312,17 +317,11 @@ Les tests ont permis d'améliorer les consignes du modèle et le traitement des 
 - Améliorer la vérification des réponses générées.
 - Permettre la configuration de l'adresse du serveur.
 
-### 14. Démonstration vidéo
-
-La vidéo présente les trois modes de révision de RévisIA ainsi qu'un test de gestion des erreurs de connexion.
-
-[Voir la démonstration vidéo (version 1.0.0)](https://github.com/WCoura/RevisIA/releases/download/v1.0.0/2026-11-09.19-50-36.mp4)
-
-## 15. Utilisation de l'intelligence artificielle
+## 14. Utilisation de l'intelligence artificielle
 
 Des outils d'intelligence artificielle ont été utilisés comme outils de soutien pendant le développement du projet, notamment pour l'assistance à la programmation, la résolution de problèmes techniques et l'amélioration de la documentation.
 
-## 16. Conclusion
+## 15. Conclusion
 
 RévisIA démontre l'intégration d'une application mobile multiplateforme avec une API REST et un modèle d'intelligence artificielle local.
 
